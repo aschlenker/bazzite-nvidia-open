@@ -1,0 +1,4 @@
+[submodule "bazzite-build"]
+	path = bazzite-build
+	url = https://github.com/aschlenker/bazzite-build.git
+	branch = main
