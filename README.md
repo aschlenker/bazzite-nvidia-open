@@ -13,7 +13,7 @@ For information and instructions look up the [bazzite-build](https://github.com/
 ### Update `bazzite-build`
 
 ```bash
-git submodule update --remote
+git submodule update --init --recursive --remote
 ```
 
 ### Format
