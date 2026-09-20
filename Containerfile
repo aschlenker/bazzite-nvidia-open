@@ -7,4 +7,4 @@ RUN --mount=type=bind,from=ctx,source=/,target=/ctx \
 	--mount=type=tmpfs,dst=/tmp \
 	sh /ctx/build.sh
 
-RUN bootc container lint
+RUN bootc container lint --no-truncate
