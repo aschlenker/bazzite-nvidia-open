@@ -40,6 +40,8 @@
 		"rechunker",
 		"reootful",
 		"rootfs",
+		"shellcheck",
+		"shfmt",
 		"sigstore",
 		"sudoif",
 		"tmpfs",
